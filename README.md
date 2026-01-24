@@ -1,6 +1,5 @@
 # 💫 About Me:
-# Hi there 👋 I'm Tobi!<br><br>**Game Developer | Linux Enthusiast | CS Student**<br><br>I like building things that are efficient, functional, and visually engaging. <br><br>🚀 Quick Stats<br>* 🔭 **Currently working on:** Paradrinks!<br>* 🌱 **Currently learning:** Graphic Design!<br>* 📫 **Linkedin :** 
-www.linkedin.com/in/muhammad-tobiansyah-18732b288<br>
+# Hi there 👋 I'm Tobi!<br><br>**Game Developer | Linux Enthusiast | CS Student**<br><br>I like building things that are efficient, functional, and visually engaging. <br><br>🚀 Quick Stats<br>* 🔭 **Currently working on:** Paradrinks!<br>* 🌱 **Currently learning:** Graphic Design!<br>* 📫 **Linkedin :** www.linkedin.com/in/muhammad-tobiansyah-18732b288<br>
 
 
 ## 🌐 Socials:
